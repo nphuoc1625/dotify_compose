@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+option java_package = "com.example.dotify_kotlin";
+option java_multiple_files = true ;
+message AccessToken{
+  string token = 1;
+
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="appName" translatable="false">DotifyKotlin</string>
+    <string name="library">Thư viện</string>
+    <string name="find_in_album">Tìm trong Album</string>
+</resources>

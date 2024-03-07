@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="library">Library</string>
+    <string name="find_in_album">Find in Album</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.LaunchTheme" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground" >@color/black</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@mipmap/ic_launcher</item>
+<!--        <item name="postSplashScreenTheme">@style/Theme.Dotify_kotlin</item>-->
+    </style>
+
+    <style name="Theme.Dotify_kotlin" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowSplashScreenBackground">@color/black</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@mipmap/ic_launcher</item>
+    </style>
+</resources>
